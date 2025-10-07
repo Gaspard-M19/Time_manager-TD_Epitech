@@ -1,2 +1,2 @@
 # Time_manager-TD_Epitech
-test remote
+test remote 2.0
